@@ -35,8 +35,8 @@ public class AdminAddClassFragment  extends Fragment
 {
     static View view;
 
-    EditText className, trainerName, description, classNum;
-    Button addClass;
+    EditText className, trainerName1, description1, classNum1;
+    Button addClass1;
 
 
     public static AdminAddClassFragment newInstance() {
